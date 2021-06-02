@@ -1,7 +1,6 @@
 module.exports = {
-  // parser: '@typescript-eslint/parser',
   plugins: ['simple-import-sort'],
-  extends: ['airbnb'],
+  extends: 'airbnb',
   rules: {
     'simple-import-sort/imports': [
       'error',
