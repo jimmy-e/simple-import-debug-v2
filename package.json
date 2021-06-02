@@ -38,6 +38,7 @@
     "@babel/plugin-transform-member-expression-literals": "^7.2.0",
     "@babel/plugin-transform-property-literals": "^7.2.0",
     "@babel/plugin-transform-reserved-words": "^7.2.0",
+    "babel-eslint": "^10.1.0",
     "chalk": "^2.4.2",
     "eslint": "^7.17.0",
     "eslint-config-airbnb": "^18.0.1",

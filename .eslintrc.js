@@ -1,6 +1,6 @@
 module.exports = {
+  parser: 'babel-eslint',
   plugins: ['simple-import-sort'],
-  extends: 'airbnb',
   rules: {
     'simple-import-sort/imports': [
       'error',
